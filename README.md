@@ -1,5 +1,5 @@
-We just moved from our old(pixelscollective.com) repository.
-Online demo videos will be added soon.
+We just moved from our old pixelscollective.com repository.
+Online demo videos will be added soon. Old customers still can contact to pixelscollective@gmail.com
 
 # SimpleJSONView
 
