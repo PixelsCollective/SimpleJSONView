@@ -3,6 +3,6 @@ Online demo videos will be added soon. Old customers still can contact to pixels
 
 # SimpleJSONView
 
-SimpleJSONView is a stable and powerful alternative to XCode's default form editor
+SimpleJSONView is a stable and powerful alternative to XCode's default form editor.
 For anyone interested in licensing SimpleJSONView, contact pixelscollective@gmail.com
 
